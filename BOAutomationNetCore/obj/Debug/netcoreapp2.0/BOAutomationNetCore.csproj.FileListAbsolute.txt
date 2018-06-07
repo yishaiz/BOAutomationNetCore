@@ -1,0 +1,13 @@
+D:\Projects\selenium\BOAutomationNetCore\BOAutomationNetCore\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Projects\selenium\BOAutomationNetCore\BOAutomationNetCore\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Projects\selenium\BOAutomationNetCore\BOAutomationNetCore\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Projects\selenium\BOAutomationNetCore\BOAutomationNetCore\bin\Debug\netcoreapp2.0\BOAutomationNetCore.deps.json
+D:\Projects\selenium\BOAutomationNetCore\BOAutomationNetCore\bin\Debug\netcoreapp2.0\BOAutomationNetCore.runtimeconfig.json
+D:\Projects\selenium\BOAutomationNetCore\BOAutomationNetCore\bin\Debug\netcoreapp2.0\BOAutomationNetCore.runtimeconfig.dev.json
+D:\Projects\selenium\BOAutomationNetCore\BOAutomationNetCore\bin\Debug\netcoreapp2.0\BOAutomationNetCore.dll
+D:\Projects\selenium\BOAutomationNetCore\BOAutomationNetCore\bin\Debug\netcoreapp2.0\BOAutomationNetCore.pdb
+D:\Projects\selenium\BOAutomationNetCore\BOAutomationNetCore\obj\Debug\netcoreapp2.0\BOAutomationNetCore.csproj.CoreCompileInputs.cache
+D:\Projects\selenium\BOAutomationNetCore\BOAutomationNetCore\obj\Debug\netcoreapp2.0\BOAutomationNetCore.AssemblyInfoInputs.cache
+D:\Projects\selenium\BOAutomationNetCore\BOAutomationNetCore\obj\Debug\netcoreapp2.0\BOAutomationNetCore.AssemblyInfo.cs
+D:\Projects\selenium\BOAutomationNetCore\BOAutomationNetCore\obj\Debug\netcoreapp2.0\BOAutomationNetCore.dll
+D:\Projects\selenium\BOAutomationNetCore\BOAutomationNetCore\obj\Debug\netcoreapp2.0\BOAutomationNetCore.pdb

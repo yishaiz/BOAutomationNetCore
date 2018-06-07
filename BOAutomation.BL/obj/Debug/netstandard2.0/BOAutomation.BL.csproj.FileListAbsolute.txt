@@ -1,0 +1,8 @@
+D:\Projects\selenium\BOAutomationNetCore\BOAutomation.BL\bin\Debug\netstandard2.0\BOAutomation.BL.deps.json
+D:\Projects\selenium\BOAutomationNetCore\BOAutomation.BL\bin\Debug\netstandard2.0\BOAutomation.BL.dll
+D:\Projects\selenium\BOAutomationNetCore\BOAutomation.BL\bin\Debug\netstandard2.0\BOAutomation.BL.pdb
+D:\Projects\selenium\BOAutomationNetCore\BOAutomation.BL\obj\Debug\netstandard2.0\BOAutomation.BL.csproj.CoreCompileInputs.cache
+D:\Projects\selenium\BOAutomationNetCore\BOAutomation.BL\obj\Debug\netstandard2.0\BOAutomation.BL.AssemblyInfoInputs.cache
+D:\Projects\selenium\BOAutomationNetCore\BOAutomation.BL\obj\Debug\netstandard2.0\BOAutomation.BL.AssemblyInfo.cs
+D:\Projects\selenium\BOAutomationNetCore\BOAutomation.BL\obj\Debug\netstandard2.0\BOAutomation.BL.dll
+D:\Projects\selenium\BOAutomationNetCore\BOAutomation.BL\obj\Debug\netstandard2.0\BOAutomation.BL.pdb
